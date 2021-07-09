@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/gohugoid/)
 
 Website yang dibuat oleh orang Indonesia menggunakan Hugo:
-- [tdfprogramming.com](https://tdfprogramming.com/)
+
 - [gohugoid.github.io](https://gohugoid.github.io/)
 - [petanikode.com](https://www.petanikode.com/)
 - [hobbious.com](https://hobbious.com/)
@@ -46,6 +46,7 @@ Website yang dibuat oleh orang Indonesia menggunakan Hugo:
 - [linuxisekai.site](https://www.linuxisekai.site)
 - [saputrago.github.io](https://saputrago.github.io)
 - [cotutorial.github.io](https://cotutorial.github.io)
+- [tdfprogramming.com](https://tdfprogramming.com/)
 - _(website kamu)_ 
 
 ## Komunitas Hugo Indonesia
